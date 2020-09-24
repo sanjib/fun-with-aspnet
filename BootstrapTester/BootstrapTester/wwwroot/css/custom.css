@@ -1,0 +1,15 @@
+﻿body {
+    margin: 5rem !important;
+}
+
+.row {
+    margin-bottom: 0.5rem;
+}
+.row div {
+    border: 1px solid black;
+    padding: 0.5rem;
+    background-color: lightsteelblue;
+}
+.form-row {
+    margin-bottom: 0.5rem;
+}
